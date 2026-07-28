@@ -121,11 +121,12 @@ The system generates a processed basketball analytics video with detection resul
 
 ⭐ Project Highlights
 
-🏀 AI-powered sports analytics
+  
+  🏀 AI-powered sports analytics
 
-🧠 Deep Learning + Computer Vision integration
+  🧠 Deep Learning + Computer Vision integration
 
-🎥 Automated basketball video understanding
+  🎥 Automated basketball video understanding
 
-🚀 Designed for future real-time coaching applications
+  🚀 Designed for future real-time coaching applications
 
