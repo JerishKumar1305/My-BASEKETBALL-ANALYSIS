@@ -98,13 +98,13 @@ The system generates a processed basketball analytics video with detection resul
 ---
 👨‍💻 Author
 
-Smith Newton K
+* Smith Newton K
 
-Jerish Kumar J
+* Jerish Kumar J
 
-Jefferson Jevin D
+* Jefferson Jevin D
 
-Sam V George
+* Sam V George
 
 ⭐ Project Highlights
 
