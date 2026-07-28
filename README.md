@@ -65,7 +65,6 @@ basket-ball-analytics-platform/
 ├── processed_output.mp4 # Sample analytics output video
 
 │
-
 └── requirements.txt # Required dependencies
 
 
