@@ -99,11 +99,17 @@ The system generates a processed basketball analytics video with detection resul
 👨‍💻 Author
 
 Smith Newton K
+Jerish Kumar J
+Jefferson Jevin D
+Sam V George
 
 ⭐ Project Highlights
 
 🏀 AI-powered sports analytics
+
 🧠 Deep Learning + Computer Vision integration
+
 🎥 Automated basketball video understanding
+
 🚀 Designed for future real-time coaching applications
 
