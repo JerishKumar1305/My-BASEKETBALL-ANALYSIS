@@ -46,15 +46,26 @@ basket-ball-analytics-platform/
 
 │
 ├── src/
+
 │
+
 ├── app.py # Main application pipeline
+
 │
+
 ├── yolov11.py # YOLO detection module
+
 │
+
+
 ├── best11.pt # Trained YOLO model weights
+
 │
+
 ├── processed_output.mp4 # Sample analytics output video
+
 │
+
 └── requirements.txt # Required dependencies
 
 
